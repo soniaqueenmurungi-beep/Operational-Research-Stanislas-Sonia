@@ -2,7 +2,7 @@
 # ☀️ Solar Irradiance Analysis and Visualization (CAMS Data)
 
 This project analyzes **clear-sky solar irradiance** using data from the **Copernicus Atmosphere Monitoring Service (CAMS)**.
-It downloads irradiance data, processes it into usable formats, and visualizes it through **time series, heatmaps, and geographic maps**. We use coordinates for Zurich (
+It downloads irradiance data, processes it into usable formats, and visualizes it through **time series, heatmaps, and geographic maps**. We use coordinates for Zurich (N;46.32 E;6.3 W;5.95 S46.13)
 
 The project consists of **two Jupyter notebooks**, each with a distinct role.
 
