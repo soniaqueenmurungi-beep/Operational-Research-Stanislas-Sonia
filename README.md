@@ -1,15 +1,8 @@
 # Operational-Research-Stanislas-Sonia
-Below is a **single, clean README** you can use for **both notebooks**.
-It’s written in clear, professional Markdown and explains **what the files do, how they relate, and how to run them**.
-
-You can copy-paste this directly into a `README.md`.
-
----
-
 # ☀️ Solar Irradiance Analysis and Visualization (CAMS Data)
 
 This project analyzes **clear-sky solar irradiance** using data from the **Copernicus Atmosphere Monitoring Service (CAMS)**.
-It downloads irradiance data, processes it into usable formats, and visualizes it through **time series, heatmaps, and geographic maps**.
+It downloads irradiance data, processes it into usable formats, and visualizes it through **time series, heatmaps, and geographic maps**. We use coordinates for Zurich
 
 The project consists of **two Jupyter notebooks**, each with a distinct role.
 
@@ -144,10 +137,4 @@ This project provides:
 * Clear visualizations in both **time and space**
 * A solid foundation for **solar energy, PV, or climate studies**
 
----
 
-If you want, I can also:
-
-* Rewrite this README for **GitHub publication**
-* Add **figures/screenshots references**
-* Create a **short project abstract** for a report or thesis
